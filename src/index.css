@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bg-extra{
+  background-color: #1C315E !important;
+}
+.cl-extra{
+  color: #802c6e;
+}

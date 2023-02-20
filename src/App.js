@@ -4,7 +4,7 @@ import './App.css';
 import Product from './Component/Product/Product';
 import Card from './Component/Card/Card';
 import Home from './Component/Home/Home';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import {  createHashRouter, RouterProvider } from 'react-router-dom';
 import Layout from './Component/Layout/Layout';
 import Productdetails from './Component/Productdetails/Productdetails';
 import Contact from './Component/Contact/Contact';
@@ -14,7 +14,7 @@ import store from "./Redux/Store"
 // import React,{useState,useEffect} from 'react';
 
 
-let routers= createBrowserRouter([
+let routers= createHashRouter([
   {path:'/',element: <Layout/> ,children:[
     {index: true ,element: <Home/> },
     {path: "/" ,element: <Home/> },

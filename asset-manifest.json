@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ecomerce/static/css/main.093f32a9.css",
-    "main.js": "/Ecomerce/static/js/main.47b87386.js",
+    "main.js": "/Ecomerce/static/js/main.703eb319.js",
     "static/js/787.ceba7239.chunk.js": "/Ecomerce/static/js/787.ceba7239.chunk.js",
     "static/media/fa-solid-900.ttf": "/Ecomerce/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/Ecomerce/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.woff2": "/Ecomerce/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/Ecomerce/index.html",
     "main.093f32a9.css.map": "/Ecomerce/static/css/main.093f32a9.css.map",
-    "main.47b87386.js.map": "/Ecomerce/static/js/main.47b87386.js.map",
+    "main.703eb319.js.map": "/Ecomerce/static/js/main.703eb319.js.map",
     "787.ceba7239.chunk.js.map": "/Ecomerce/static/js/787.ceba7239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.093f32a9.css",
-    "static/js/main.47b87386.js"
+    "static/js/main.703eb319.js"
   ]
 }
